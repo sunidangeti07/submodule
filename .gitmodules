@@ -1,0 +1,6 @@
+[submodule "ANSIBLE-HUB"]
+	path = ANSIBLE-HUB
+	url = https://github.com/sunidangeti07/ANSIBLE-HUB.git
+[submodule "azurepipelines"]
+	path = azurepipelines
+	url = https://github.com/sunidangeti07/azurepipelines.git
